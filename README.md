@@ -18,7 +18,7 @@ Utilizei o algoritmo de machine learning "Maxent" - Maximum Entropy - na modelag
 
 <center>Visão esquemática do processo de Modelagem de Nicho Ecológico (ENM)</center>
 
-![Modelagem de Nicho Ecológico](https://www.researchgate.net/profile/Vanessa-Rossetto-Marcelino/publication/280972992/figure/fig2/AS:667864587571200@1536242734057/Schematic-overview-of-the-process-of-ecological-niche-modeling-The-environmental.png)
+![Modelagem de Nicho Ecológico](images/Marcelino_ENM.png)
 <small>Fonte: MARCELINO, Vanessa R.; VERBRUGGEN, Heroen. Ecological niche models of invasive seaweeds. Journal of Phycology, v. 51, n. 4, p. 606-620, 2015 (fig. 2).</small>
 ```mermaid
 graph TB
